@@ -1,4 +1,4 @@
-# nosql-challenge
+# Nosql-challenge
 
 This project involved analyzing food hygiene ratings data from the UK Food Standards Agency to assist the food magazine Eat Safe, Love in identifying focus areas for future articles. The project consisted of three main parts: database setup, data updates, and exploratory analysis.
 
